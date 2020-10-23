@@ -1,15 +1,15 @@
 - profile:
-  initials: JD
-  name: John Doe
-  email: john.doe@change.me
+  initials: AK
+  name: Avinash
+  email: avinash.kumar.cs92@gmail.com
   profession: Web Developer
   image: images/profile1.jpg
-  location: New York, USA
+  location: Noida, UP
   relocation: true
-  company: Atomic Studio
+  company: Instarem
   for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: React.js, Django
+  focus_url: ''
   about: |
     Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
 
@@ -17,11 +17,13 @@
   skills:
     - JavaScript
     - HTML / CSS
-    - Ruby on Rails
+    - Django
+    - React.js 
+    - Next.js
   tools:
     - React
     - VSCode
-    - Gatsby
+    - Git
   budget:
     currency: $
     min: 5
